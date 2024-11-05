@@ -9,3 +9,8 @@
 * {
   font-family: Roboto, Arial, sans-serif;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+}
