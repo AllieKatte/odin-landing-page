@@ -69,4 +69,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: var(--light-gray);
+  background-color: var(--dark-gray);
 }
