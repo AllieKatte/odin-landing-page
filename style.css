@@ -50,6 +50,10 @@ body {
   display: flex;
 }
 
+.hero-text {
+  flex: 1;
+}
+
 .hero-text > h1 {
   font-size: 48px;
   font-weight: 900;
@@ -71,4 +75,5 @@ body {
   align-items: center;
   color: var(--light-gray);
   background-color: var(--dark-gray);
+  flex: 1;
 }
