@@ -23,6 +23,7 @@ body {
   flex-direction: column;
   background-color: var(--dark-blue);
   padding: 0 24em 8em;
+  gap: 7em;
 }
 
 .header {
