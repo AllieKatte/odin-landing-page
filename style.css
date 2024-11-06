@@ -70,6 +70,12 @@ body {
   padding: 0.25em 0 1em;
 }
 
+.hero-text > button {
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+}
+
 .hero-image {
   display: flex;
   justify-content: center;
