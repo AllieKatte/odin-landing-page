@@ -42,4 +42,5 @@ body {
   font-size: 18px;
   color: var(--light-gray);
   list-style-type: none;
+  gap: 1em;
 }
