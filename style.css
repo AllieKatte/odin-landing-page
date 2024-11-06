@@ -49,3 +49,14 @@ body {
 .hero {
   display: flex;
 }
+
+.hero-text > h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: var(--white);
+}
+
+.hero-text > p {
+  font-size: 18px;
+  color: var(--light-gray);
+}
