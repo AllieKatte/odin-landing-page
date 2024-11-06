@@ -39,4 +39,6 @@ body {
 
 .header > ul {
   display: flex;
+  font-size: 18px;
+  color: var(--light-gray);
 }
