@@ -117,4 +117,6 @@ body {
 .information-image {
   height: 175px;
   width: 175px;
+  border: 0.25em solid var(--light-blue);
+  border-radius: 1em;
 }
