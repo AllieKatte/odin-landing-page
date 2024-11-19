@@ -107,3 +107,8 @@ body {
   display: flex;
   gap: 3em;
 }
+
+.information {
+  display: flex;
+  flex-direction: column;
+}
