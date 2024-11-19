@@ -113,6 +113,7 @@ body {
   flex-direction: column;
   align-items: center;
   width: 175px;
+  gap: 0.5em;
 }
 
 .information-image {
