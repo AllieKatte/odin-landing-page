@@ -102,3 +102,7 @@ body {
   font-weight: 900;
   color: var(--dark-blue);
 }
+
+.information-container {
+  display: flex;
+}
