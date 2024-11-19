@@ -120,3 +120,9 @@ body {
   border: 0.25em solid var(--light-blue);
   border-radius: 1em;
 }
+
+.information-text {
+  font-size: 18px;
+  color: var(--dark-gray);
+  text-align: center;
+}
