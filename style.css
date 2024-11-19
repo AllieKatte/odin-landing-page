@@ -105,4 +105,5 @@ body {
 
 .information-container {
   display: flex;
+  gap: 3em;
 }
