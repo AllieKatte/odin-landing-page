@@ -178,4 +178,6 @@ body {
 
 .signup-bubble {
   display: flex;
+  color: white;
+  background-color: var(--light-blue);
 }
