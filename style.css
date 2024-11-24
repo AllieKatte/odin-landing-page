@@ -165,4 +165,5 @@ body {
 .quote-credit {
   font-size: 24px;
   font-weight: 900;
+  align-self: end;
 }
