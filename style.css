@@ -185,6 +185,13 @@ body {
   gap: 10em;
 }
 
+.signup-bubble > button {
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  background-color: var(--light-blue);
+}
+
 .signup-bubble-text {
   display: flex;
   flex-direction: column;
