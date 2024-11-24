@@ -190,6 +190,8 @@ body {
   font-weight: 700;
   color: white;
   background-color: var(--light-blue);
+  border: 2px solid white;
+  border-radius: 0.5em;
 }
 
 .signup-bubble-text {
