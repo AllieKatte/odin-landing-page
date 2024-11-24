@@ -198,3 +198,8 @@ body {
 .signup-bubble-text > h3 {
   font-size: 24px;
 }
+
+.signup-bubble-text > p {
+  font-size: 18px;
+  color: var(--light-gray);
+}
