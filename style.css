@@ -181,4 +181,6 @@ body {
   color: white;
   background-color: var(--light-blue);
   border-radius: 0.5em;
+  padding: 3em 8em;
+  gap: 10em;
 }
