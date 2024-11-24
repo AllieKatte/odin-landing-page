@@ -92,6 +92,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 18px;
   color: var(--light-gray);
   background-color: var(--dark-gray);
   flex: 1;
@@ -167,4 +168,8 @@ body {
   font-weight: 900;
   align-self: end;
   padding-right: 1.5em;
+}
+
+.signup-section {
+  display: flex;
 }
