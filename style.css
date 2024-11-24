@@ -220,4 +220,5 @@ body {
   font-size: 18px;
   color: var(--white);
   background-color: var(--dark-blue);
+  padding: 1em;
 }
