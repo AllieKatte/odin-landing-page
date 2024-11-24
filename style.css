@@ -143,3 +143,8 @@ body {
   color: var(--dark-blue);
   background-color: var(--light-gray);
 }
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+}
