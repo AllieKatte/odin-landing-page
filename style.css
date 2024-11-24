@@ -189,3 +189,8 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.signup-bubble-text > h3,
+.signup-bubble-text > p {
+  margin: 0;
+}
