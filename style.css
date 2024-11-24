@@ -217,4 +217,7 @@ body {
 .footer {
   display: flex;
   justify-content: center;
+  font-size: 18px;
+  color: var(--white);
+  background-color: var(--dark-blue);
 }
