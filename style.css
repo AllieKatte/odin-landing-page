@@ -140,4 +140,6 @@ body {
 .quote-section {
   display: flex;
   justify-content: center;
+  color: var(--dark-blue);
+  background-color: var(--light-gray);
 }
