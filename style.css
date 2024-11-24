@@ -173,4 +173,5 @@ body {
 .signup-section {
   display: flex;
   justify-content: center;
+  padding: 6em;
 }
