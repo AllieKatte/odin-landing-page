@@ -20,9 +20,16 @@ body {
 
 .hero-section {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   background-color: var(--dark-blue);
-  padding: 0 24em 8em;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 950px;
+  padding: 0 0 8em;
   gap: 7em;
 }
 
@@ -30,6 +37,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
 }
 
 .header-logo {
