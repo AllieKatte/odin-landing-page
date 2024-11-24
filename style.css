@@ -172,4 +172,5 @@ body {
 
 .signup-section {
   display: flex;
+  justify-content: center;
 }
