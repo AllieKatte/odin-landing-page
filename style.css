@@ -194,3 +194,7 @@ body {
 .signup-bubble-text > p {
   margin: 0;
 }
+
+.signup-bubble-text > h3 {
+  font-size: 24px;
+}
