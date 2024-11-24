@@ -184,3 +184,8 @@ body {
   padding: 3em 8em;
   gap: 10em;
 }
+
+.signup-bubble-text {
+  display: flex;
+  flex-direction: column;
+}
